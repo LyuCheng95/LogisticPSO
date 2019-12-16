@@ -1,0 +1,8 @@
+from,to,means,cost,tranportation_time,daily_start_hour,dayily_end_hour,limited_weight,limited_size
+Origin,A,waterway,20,3,23:00:00,06:00:00,20,5
+Origin,A,waterway,30,3.5,23:00:00,06:00:00,20,5
+A,Destination,roadway,10,3.5,23:00:00,06:00:00,20,5
+Destination,A,roadway,10,3.5,23:00:00,06:00:00,20,5
+Origin,B,rail,50,3.5,00:00:00,24:00:00,20,5
+B,Destination,rail,50,3.5,00:00:00,24:00:00,20,5
+Destination,B,rail,50,3.5,00:00:00,24:00:00,20,5
